@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpectrumAuction.iml" filepath="$PROJECT_DIR$/.idea/SpectrumAuction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpectrumAuctionBot/SpectrumAuctionBot.iml" filepath="$PROJECT_DIR$/SpectrumAuctionBot/SpectrumAuctionBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpectrumAuctionBot2/SpectrumAuctionBot2.iml" filepath="$PROJECT_DIR$/SpectrumAuctionBot2/SpectrumAuctionBot2.iml" />
+    </modules>
+  </component>
+</project>

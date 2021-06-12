@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: edu.harvard.eecs:jopt:1.3.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/harvard/eecs/jopt/1.3.1/jopt-1.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/harvard/eecs/jopt/1.3.1/jopt-1.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/harvard/eecs/jopt/1.3.1/jopt-1.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

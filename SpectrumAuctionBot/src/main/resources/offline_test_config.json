@@ -1,0 +1,38 @@
+{
+	"agents": [
+		{
+			"agentClass": "agent.MySpectrumAuctionAgent", 
+			"agentName": "me", 
+		}, 
+		{
+			"agentClass": "brown.user.agent.library.Tier1SpectrumAuctionAgent", 
+			"agentName": "opponent_1", 
+
+		},
+		{
+			"agentClass": "brown.user.agent.library.Tier1SpectrumAuctionAgent", 
+			"agentName": "opponent_2", 
+
+		},
+		{
+			"agentClass": "brown.user.agent.library.Tier1SpectrumAuctionAgent", 
+			"agentName": "opponent_3", 
+
+		},
+		{
+			"agentClass": "brown.user.agent.library.Tier1SpectrumAuctionAgent", 
+			"agentName": "opponent_4", 
+
+		},
+		{
+			"agentClass": "brown.user.agent.library.Tier1SpectrumAuctionAgent", 
+			"agentName": "opponent_5", 
+
+		},
+		{
+			"agentClass": "brown.user.agent.library.Tier1SpectrumAuctionAgent", 
+			"agentName": "opponent_6", 
+
+		},
+	]
+}
